@@ -1,6 +1,26 @@
 export default {
-  home: '首页',
   login: '登录',
+  home: '首页',
+  shop:'店铺',
+  commodity:'商品',
+  vip:'会员',
+  order:'订单', 
+  store:'门店',
+  marketing:'营销',
+  finance:'财务',
+  data:'数据',
+
+
+
+
+
+
+
+
+
+
+
+
   components: '组件',
   count_to_page: '数字渐变',
   tables_page: '多功能表格',
@@ -11,7 +31,6 @@ export default {
   img_cropper_page: '图片编辑器',
   update: '上传数据',
   join_page: 'QQ群',
-  doc: '文档',
   update_table_page: '上传CSV文件',
   update_paste_page: '粘贴表格数据',
   multilevel: '多级菜单',

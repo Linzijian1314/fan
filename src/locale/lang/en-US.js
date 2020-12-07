@@ -1,6 +1,24 @@
 export default {
-  home: 'Home',
   login: 'Login',
+  home: 'Home',
+  shop:'Shop',
+  commodity:'Commodity',
+  vip:'VIP',
+  order:'Order',
+  store:'Store',
+  marketing:'Marketing',
+  finance:'Finance',
+  data:'Data',
+
+
+
+
+
+
+
+
+
+
   components: 'Components',
   count_to_page: 'Count-to',
   tables_page: 'Table',
@@ -10,7 +28,6 @@ export default {
   icons_page: 'Custom-icon',
   img_cropper_page: 'Image-editor',
   update: 'Update',
-  doc: 'Document',
   join_page: 'QQ Group',
   update_table_page: 'Update .CSV',
   update_paste_page: 'Paste Table Data',
